@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            'mhtraylor's blog
+tagline:          'It is what it is'
+description:      ''
+url:              https://mhtraylor.github.io/
+baseurl:          /
+
+author:
+  name:           'mhtraylor'
+  url:
+
+paginate:         5
+
+github:
+  repo:           https://github.com/mhtraylor/mhtraylor.github.io

@@ -1,2 +1,4 @@
-# mhtraylor.github.io
-M.H. Traylor's Blog
+mhtraylor's blog
+======
+
+
