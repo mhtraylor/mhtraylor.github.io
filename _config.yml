@@ -1,13 +1,12 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            'mhtraylor's blog
+title:            'mhtraylor blog'
 tagline:          'It is what it is'
 description:      ''
 url:              https://mhtraylor.github.io/

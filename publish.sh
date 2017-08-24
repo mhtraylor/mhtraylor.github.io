@@ -4,5 +4,5 @@ mono .paket/paket.exe restore
 mono tools/fsformatting.exe literate --processDirectory --lineNumbers false --inputDirectory  "code" --outputDirectory "_posts"
 
 git add --all .
-git commit -a -m %1
+git commit -a -m $1
 git push
